@@ -1,0 +1,2 @@
+dev_eui,device_zone,device_ward,schedule_1_start_time,schedule_1_percentage,schedule_2_start_time,schedule_2_percentage,schedule_3_start_time,schedule_3_percentage,schedule_4_start_time,schedule_4_percentage,device_watt,device_type,pol_number,device_latitude,device_longitude
+defrvc2222,Jaipur,jaipur,23:38:17,60,23:38:17,70,23:38:17,30,23:38:17,20,80,with meter,19,26.6666,75.8888

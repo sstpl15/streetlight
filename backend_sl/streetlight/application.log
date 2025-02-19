@@ -1,0 +1,2 @@
+2023-09-18 11:20:26,805 - django.request - WARNING - Not Found: /api/
+2023-09-18 11:26:03,536 - django.request - WARNING - Not Found: /api/
